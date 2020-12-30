@@ -1,4 +1,4 @@
-# PCA-K-Means
+# PCA vs K-Means
 
 This project computes the Principal Component Analysis and K-Means algorithms and use them on a dataset. The dataset is the set of images from MNIST database corresponding to the handwritten digit $7$. Each image is $28px\times 28px$. The set is divided in a training set and a testing set of respective size $3133$ and $3132$.
 
